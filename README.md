@@ -80,6 +80,11 @@ data-warehouse-project/
 ```
 ---
 
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
 ### Special Mentions
 
 I'd like to thank the incredible [DataWithBaraa](https://github.com/DataWithBaraa) for offering this Data Engineering course for completely free. :)
